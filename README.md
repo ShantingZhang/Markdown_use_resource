@@ -1,0 +1,2 @@
+# Markdown_use_resource
+public_static_resource
